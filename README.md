@@ -35,3 +35,5 @@ sub...
 #### git diff feature-readme
 #### git checkout feature-readme
 #### git push -u original feature-readme
+#### did changes in online.... git pull
+#### git branch -d feature branch
