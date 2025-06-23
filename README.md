@@ -20,17 +20,18 @@ sub...
 ### pbcopy < ~/testkey
 
 ### local development
-git branch
- git checkout -b feature-readme
-git branch
- git checkout main
+#### git branch
+#### git checkout -b feature-readme
+#### git branch
+#### git checkout main
 
-git branch
-git checkout feature-readme
+#### git branch
+#### git checkout feature-readme
 
-git add README.md
-git commit -m "updated readme"
-git commit -m "updated readme"
-git checkout main
-git diff feature-readme
-git checkout feature-readme
+#### git add README.md
+#### git commit -m "updated readme"
+#### git commit -m "updated readme"
+#### git checkout main
+#### git diff feature-readme
+#### git checkout feature-readme
+#### git push -u original feature-readme
