@@ -27,3 +27,7 @@ git branch
 
 git branch
 git checkout feature-readme
+
+git add README.md
+git commit -m "updated readme"
+git commit -m "updated readme"
