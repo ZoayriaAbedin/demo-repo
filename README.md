@@ -37,3 +37,9 @@ sub...
 #### git push -u original feature-readme
 #### did changes in online.... git pull
 #### git branch -d feature branch
+
+#### git reset
+
+#### git reset HEAD
+#### git log
+#### git reset hashOFlog
