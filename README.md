@@ -43,3 +43,4 @@ sub...
 #### git reset HEAD
 #### git log
 #### git reset hashOFlog
+#### git reset -hard logNumber
